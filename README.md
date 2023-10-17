@@ -1,7 +1,7 @@
 ___
 # Howdy! 👋 Nice to see our paths crossing.
 
-💻 - Status: `"Newcomer Web-Development with already advanced skills"`<br><br>
+💻 - Status: `"Newcomer Front-End-Development with already advanced skills"`<br><br>
 
 
 Something about me:<br>
